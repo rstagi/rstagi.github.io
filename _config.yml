@@ -5,11 +5,12 @@ plugins:
 title: Roberto Stagi
 
 description: >
-  Some awesom description about Roberto Stagi.
+  Full Stack Engineer & Innovation Enthusiast.
 
 baseurl: "/"
 url: "http://rstagi.github.io"
 github_username: "rstagi"
+email: "me@rstagi.com"
 
 markdown: kramdown
 permalink: /:year/:title:output_ext
