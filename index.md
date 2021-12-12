@@ -13,13 +13,13 @@ Among those, I'll briefly explain what I like to do, but please <a href="cv_Stag
 I enjoy coding, I try to write elegant and well-tested software.
 I also like photography, but I'm probably better at coding (or, at least, I've been told so).
 
-I'm perfectly aware of what is my work's objective: **generate value** for someone.
-Yeah I know, it's kind of a *cliche*, but I find that having clear in mind what is the added value I'm creating, helps me to remain focus and to make better decisions.
+I'm perfectly aware of what is the goal of what I do: **generate value** for someone.
+Yeah, I know, it's kind of a *cliche*, but I find that having clear in mind what is the added value I'm creating, helps me to remain focused and to make better decisions.
 
-I value among everything else the collaboration. The most amazing things are made by collaborating in teams.
-That means I always try to be a good team member, and I developed my teamworking skills.
+I value collaboration among everything else. I think the most amazing things are made by collaborating with someone.
+That means I always try to be a good team member, by improving my teamworking skills.
 
-## What do I have worked with?
+## What do I get my hands on?
 Well, I easily like new stuff, so I've tried many things.
 Above all, though, I've worked with **node.js** and **React**, usually relying on **MongoDB** and **Kubernetes**.
 I worked extensively with **Go**, and with heavy data streams using **Kafka**.
@@ -31,10 +31,10 @@ I also enjoyed working with some serverless solutions, like *Google Cloud Run*.
 ## What do I do for a living?
 I'm currently employed as a Full Stack Engineer @ [Mia-Platform](https://mia-platform.eu).
 
-I work on the Mia-Platform main product (a DevOps console to help developing services in-cloud), but I also work with customers, helping them to design cloud-native solutions for their problems.
+I work on the Mia-Platform main product (a DevOps console to help developing cloud services), but I also work with customers, helping them to design cloud-native solutions for their needs.
 
-Besides that, I'm also involved in a cool startup in the previdencial field: [SavingBud](https://www.savingbud.com).
-The developers team is made of 4 amazing people (me included).
+Besides that, I'm also involved in a cool startup in the insurance field: [SavingBud](https://www.savingbud.com).
+The developers team is made of 4 amazing people.
 As it happens in many startups, we all tend to work on all the parts of the IT system we developed.
 However, due to my background knowledge, I happen to be the one who pushes the most on the DevOps practices.
 
