@@ -3,7 +3,7 @@
 ## TL; DR;
 
 What follows is not that seriously written, so:
-- if you're interested in my past experience please [look at my CV here][cv_StagiRoberto.pdf]
+- if you're interested in my past experience please [look at my CV here](cv_StagiRoberto.pdf)
 - if you'd like to get in touch, mail me at the following address: [me@rstagi.com](mailto:me@rstagi.com)
 
 ## Introduction
