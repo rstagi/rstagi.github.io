@@ -13,7 +13,9 @@ Okay I'm going to be honest with you: I still have to figure out how to organize
 So I'm placing some random stuff that came to my mind in the last few hours.
 I'll briefly explain what I like to do, but please [have a look at my CV](cv_StagiRoberto.pdf) for a more detailed (and serious) overview of my past experience.
 
-<a href="cv_StagiRoberto.pdf" download>Download my CV Here</a>
+<br>
+<p style="text-align: center"><a href="cv_StagiRoberto.pdf" download>Download my CV Here</a></p>
+<br>
 
 ## Who am I?
 **I like to create things**.  The more innovative the better.
