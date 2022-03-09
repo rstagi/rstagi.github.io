@@ -42,13 +42,13 @@ I've also worked with *Java* and  *Flutter*, and I have professional experience 
 I also enjoyed working with some serverless solutions, like *Google Cloud Run* and the *Firebase Cloud Functions*.
 
 ## What do I do for a living?
-I'm currently employed as a Full Stack Engineer @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan.
+I'm currently employed as a **Full Stack Engineer** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan.
 
-I work on the Mia-Platform main product: a DevOps console to aid in the cloud services development process.
-I also work with customers, helping them to design and implement cloud-native solutions for their needs, as it would be done in a consulting company, by using our DevOps Console.
+I work on the Mia-Platform main product: a **DevOps console** to manage the entire DevOps Value Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data.
+I also work with customers, helping them to design and implement cloud-native solutions for their needs, as it would be done in a consulting company, by using our product.
 The latter is actually the main part of my daily work.
 
-Besides that, I'm the CTO of a cool italian startup: [SavingBud](https://www.savingbud.com). SavingBud is a FinTech Startup Company focused on easing the Complementary Pension Funds choise and subscription process. The developers team is made of 3 amazing people (me included, of course).
+Besides that, I'm the **CTO** of a cool italian startup: [SavingBud](https://www.savingbud.com). SavingBud is a **FinTech Startup Company** focused on easing the Complementary Pension Funds choise and subscription process. The developers team is made of 3 amazing people (me included, of course).
 
 ## How to contact me
 You can contact me at the following email address: [me@rstagi.com](mailto:me@rstagi.com).
