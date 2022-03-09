@@ -11,7 +11,7 @@ What follows is not that seriously written, so:
 Okay I'm going to be honest with you: I still have to figure out how to organize this web-site.
 
 So I'm placing some random stuff that came to my mind in the last few hours.
-I'll briefly explain what I like to do, but please [have a look at my CV][cv_StagiRoberto.pdf] for a more detailed (and serious) overview of my past experience.
+I'll briefly explain what I like to do, but please [have a look at my CV](cv_StagiRoberto.pdf) for a more detailed (and serious) overview of my past experience.
 
 <a href="cv_StagiRoberto.pdf" download>Download my CV Here</a>
 
@@ -43,10 +43,7 @@ I work on the Mia-Platform main product: a DevOps console to aid in the cloud se
 I also work with customers, helping them to design and implement cloud-native solutions for their needs, as it would be done in a consulting company, by using our DevOps Console.
 The latter is actually the main part of my daily work.
 
-Besides that, I'm also involved in a cool startup in the insurance field: [SavingBud](https://www.savingbud.com).
-The developers team is made of 3 amazing people (me included, of course).
-As in many startups, we all tend to work on all the parts of the IT system we developed.
-Due to my background knowledge, I happen to be the one who pushes the most on the DevOps practices.
+Besides that, I'm the CTO of a cool italian startup: [SavingBud](https://www.savingbud.com). SavingBud is a FinTech Startup Company focused on easing the Complementary Pension Funds choise and subscription process. The developers team is made of 3 amazing people (me included, of course).
 
 ## How to contact me
 You can contact me at the following email address: [me@rstagi.com](mailto:me@rstagi.com).
