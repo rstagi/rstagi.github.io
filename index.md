@@ -21,8 +21,10 @@ I'll briefly explain what I like to do, but please [have a look at my CV](cv_Sta
 I enjoy coding, by writing elegant and well-tested software.
 I also like photography, but I'm probably better as a programmer (or, at least, I've been told so).
 
-I'm perfectly aware of what is the goal of what I do: **generate value** for someone.
-Yeah, I know, it's kind of a *cliche*, but having clear in mind what is the added value I'm creating, helps me to remain focused and to make better decisions.
+I'm perfectly aware of what is the goal of what I do: **create value** for someone.
+Yeah, I know, it's kind of a *cliche*, but having clear in mind what is the added value I'm delivering, helps me to remain focused and to make better decisions.
+I've often struggled to unsterdand what is this so-called "business value" we, as developers, are delivering at the end of each sprint (does good testing coverage delivery any value? Fixing security holes does so? Well, in such cases of course yes, but the answers are not always so easy).
+I still haven't come to a conclusion yet, but I'm getting better at making my customers happy. I'll let you know if I solve the puzzle :)
 
 I value collaboration among everything else. I think the most amazing things are made by collaborating with someone.
 That means I always try to be a good team member, by improving my teamworking skills (I'm having the role of the Scrum Master for the team I'm in at work).
