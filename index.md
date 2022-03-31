@@ -43,11 +43,13 @@ I also enjoyed working with some serverless solutions, like *Google Cloud Run* a
 ## What do I do for a living?
 I'm currently employed as a **Full Stack Engineer** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan.
 
-I work on the Mia-Platform main product: a **DevOps console** to manage the entire DevOps Value Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data.
-I also work with customers, helping them to design and implement cloud-native solutions for their needs, as it would be done in a consulting company, by using our product.
-The latter is actually the main part of my daily work.
+I have heavily contributed to the development of the Mia-Platform product: a **DevOps console** to manage the entire DevOps Value Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data. I mainly focused on this last part of the product, the Fast Data one, and through my proactive and experimental approach I contributed to major product developments. 
 
-Besides that, I'm **CTO** @ [SavingBud](https://www.savingbud.com), a **FinTech Startup Company** focused on easing the Complementary Pension Funds choise and subscription process. The developers team is made of 3 amazing people (me included, of course).
+Doing so, I've done a pretty good job during 2021, so I happened to win the *Perfect Year 2021* award, an yearly prize reserved to the best performing employees. Also, in 2022 I became the **Technical Leader** for a team counting 3 Developers and 1 Product Owner, and I am part of a small group of Tech Leads, named "Fast Data Consortium", leading the Fast Data development road map.
+
+The team I'm leading is focused on delivering solutions based on Fast Data to customers and prospects, helping them to design and implement cloud-native solutions for their needs by using our product. Leading such projects is now the main part of my daily work.
+
+Besides Mia Platform, I'm **CTO** @ [SavingBud](https://www.savingbud.com), a **FinTech Startup Company** focused on easing the Complementary Pension Funds choice and subscription process. The developers team is made of 3 amazing people and we're trying to scale up by letting the customers subscribe digitally.
 
 ## How to contact me
 You can contact me at the following email address: [me@rstagi.com](mailto:me@rstagi.com).
