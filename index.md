@@ -41,7 +41,7 @@ I've also worked with *Java* and  *Flutter*, and I have professional experience 
 I also enjoyed working with some serverless solutions, like *Google Cloud Run* and the *Firebase Cloud Functions*.
 
 ## What do I do for a living?
-I'm currently employed as a **Full Stack Engineer** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan.
+I'm currently employed as a **Lead Full Stack Engineer** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan.
 
 I have heavily contributed to the development of the Mia-Platform product: a **DevOps console** to manage the entire DevOps Value Stream and master end-to-end enterprise digital platforms based on APIs, microservices and Fast Data. I mainly focused on this last part of the product, the Fast Data one, and through my proactive and experimental approach I contributed to major product developments. 
 
