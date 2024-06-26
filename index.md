@@ -1,6 +1,6 @@
-# Roberto Stagi
+# Roberto Stagi, Full Stack Engineer
 
-## TL; DR;
+## TL;DR;
 
 What follows is just a quick skim of my career. If you're interested in my past experience, please [have a look at my CV](cv_StagiRoberto.pdf).
 
@@ -34,17 +34,16 @@ For that reason, I always try to be the best version of a team member I can thin
 ## What do I get my hands on?
 Well, I easily like new stuff, so I've tried many things.
 Above all, though, I've worked with **node.js** and **React**, usually relying on **MongoDB** and **Kubernetes**.
-But I also worked extensively with **Go**, **Kafka** and enterprise-level monitoring tools, such as **Prometheus** and **Grafana**.
 
-I like to define myself a generalist, since I've had top tier professional experience in almost every part of the cloud technology stack: Infrastructure, DevOps, Backend and Frontend.
+I like to define myself a generalist, since I've had top tier professional experience in almost every part of the cloud technology stack: Infrastructure, DevOps, Backend and Frontend. Someone might call me a **Full Stack Engineer**, but I've heard thet it's just a myth (well, is it?).
 
 ## What do I do for a living?
 I'm currently a **Software Engineer** @ [Bending Spoons](https://bendingspoons.com/). You might have heard of it. If you still haven't, I'm sure you will more and more.
 It's most probably the most innovative software company in Italy, which makes it a great workplace to be. I'm so proud of being here.
 
-At the moment of writing I'm working as a Backend Software Engineer, but I've also worked for some months as a Frontend Developer on [Remini Web](https://app.remini.ai/).
+At the moment I'm working on [Evernote](https://www.evernote.com), mainly on the Backend, but I'm shoveling stuff on the frontend as well. Previously, I've worked on [Remini Web](https://app.remini.ai/), mainly on the Frontend.
 
-Previously I was **Technical Leader** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan, and **CTO** @ [SavingBud](https://www.savingbud.com), a Startup Company that moved its first steps in the Fintech and Insurtech world.
+Before joining Bending Spoons, I was **Technical Leader** @ [Mia-Platform](https://mia-platform.eu), an innovative and dynamic software company based in Milan, and **CTO** @ [SavingBud](https://www.savingbud.com), a Startup Company that moved its first steps in the Fintech and Insurtech world. Great experiences I had. They made me grow exponentially both personally and professionally.
 
 ## How to contact me
 You can contact me at the following email address: [me@rstagi.com](mailto:me@rstagi.com).
